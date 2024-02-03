@@ -1,0 +1,28 @@
+[
+  {
+    "MechanicalID": 1,
+    "ShortName": "Threader",
+    "MechanicalName": "Threading Mechine"
+  },
+  {
+    "MechanicalID": 2,
+    "ShortName": "Dyer",
+    "MechanicalName": "Dying Mechine"
+  },
+  {
+    "MechanicalID": 3,
+    "ShortName": "Borer",
+    "MechanicalName": "Boring Macine",
+    "_action": "create"
+  },
+  {
+    "MechanicalID": 4,
+    "ShortName": "Pumper",
+    "MechanicalName": "Pumping Mechine"
+  },
+  {
+    "MechanicalID": 5,
+    "ShortName": "Sharpner",
+    "MechanicalName": "Sharpening Mechine"
+  }
+]
