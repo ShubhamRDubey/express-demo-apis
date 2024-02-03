@@ -14,7 +14,7 @@ router.post('/create', async (req, res) => {
 
   const newId = mechanicals.length + 1;
   const newMechanical = {
-    ChemID: newId,
+    MechanicalID: newId,
     ...req.body
   };
 
@@ -29,7 +29,7 @@ router.get('/:id', async (req, res) => {
   const mechanicalId = parseInt(req.params.id);
   const mechanicals = await mechanicalModel.loadMechanicalsData();
 
-  const mechanical = mechanicals.find((u) => u.ChemID === mechanicalId);
+  const mechanical = mechanicals.find((u) => u.MechanicalID === mechanicalId);
 
   if (mechanical) {
     res.json(mechanical);
@@ -39,14 +39,14 @@ router.get('/:id', async (req, res) => {
 });
 
 router.post('/update', async (req, res) => {
-  const mechanicalIdToUpdate = parseInt(req.body.ChemID);
+  const mechanicalIdToUpdate = parseInt(req.body.MechanicalID);
   const mechanicals = await mechanicalModel.loadMechanicalsData();
-  const mechanicalIndex = mechanicals.findIndex((mechanical) => mechanical.ChemID === mechanicalIdToUpdate);
+  const mechanicalIndex = mechanicals.findIndex((mechanical) => mechanical.MechanicalID === mechanicalIdToUpdate);
   if (mechanicalIndex !== -1) {
     mechanicals[mechanicalIndex] = {
       ...mechanicals[mechanicalIndex],
       ...req.body,
-    ChemID: parseInt(req.body.ChemID) 
+    MechanicalID: parseInt(req.body.MechanicalID) 
     };
 
     await mechanicalModel.saveMechanicalsData(mechanicals);

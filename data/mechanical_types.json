@@ -1,28 +1,40 @@
 [
   {
     "MechanicalID": 1,
-    "ShortName": "Threader",
-    "MechanicalName": "Threading Mechine"
+    "Code": "Threader",
+    "Description": "Threading Mechine"
   },
   {
     "MechanicalID": 2,
-    "ShortName": "Dyer",
-    "MechanicalName": "Dying Mechine"
+    "Code": "Dyer",
+    "Description": "Dying Mechine"
   },
   {
     "MechanicalID": 3,
-    "ShortName": "Borer",
-    "MechanicalName": "Boring Macine",
+    "Code": "Borer",
+    "Description": "Boring Macine",
     "_action": "create"
   },
   {
     "MechanicalID": 4,
-    "ShortName": "Pumper",
-    "MechanicalName": "Pumping Mechine"
+    "Code": "Pumper",
+    "Description": "Pumping Mechine"
   },
   {
     "MechanicalID": 5,
-    "ShortName": "Sharpner",
-    "MechanicalName": "Sharpening Mechine"
+    "Code": "Sharpner",
+    "Description": "Sharpening Mechine"
+  },
+  {
+    "MechanicalID": 6,
+    "Code": "Laptop",
+    "Description": "Dell xps 2.0",
+    "_action": "create"
+  },
+  {
+    "MechanicalID": 7,
+    "Code": "Mobile",
+    "Description": "Samsung Galaxy S24",
+    "_action": "create"
   }
 ]
