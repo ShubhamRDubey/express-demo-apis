@@ -1,0 +1,37 @@
+[
+  {
+    "ChemID": 1,
+    "ShortName": "C",
+    "ChemName": "Carbon 2.0",
+    "_action": "create"
+  },
+  {
+    "ChemID": 2,
+    "ShortName": "H",
+    "ChemName": "Hydrogen"
+  },
+  {
+    "ChemID": 3,
+    "ShortName": "B",
+    "ChemName": "Boron",
+    "_action": "create"
+  },
+  {
+    "ChemID": 4,
+    "ShortName": "S",
+    "ChemName": "Silica",
+    "_action": "create"
+  },
+  {
+    "ChemID": 5,
+    "ShortName": "A",
+    "ChemName": "Argon",
+    "_action": "create"
+  },
+  {
+    "ChemID": 6,
+    "ShortName": "Ni",
+    "ChemName": "Nickel",
+    "_action": "create"
+  }
+]
