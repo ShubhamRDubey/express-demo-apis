@@ -1,0 +1,52 @@
+[
+  {
+    "id": 101,
+    "name": "DIN 101",
+    "description": "Rivets – Technical specifications"
+  },
+  {
+    "id": 1031,
+    "name": "DIN 103-1",
+    "description": "ISO Metric Trapezoidal Screw Thread; Profiles"
+  },
+  {
+    "id": 1032,
+    "name": "DIN 103-2",
+    "description": "ISO Metric Trapezoidal Screw Thread; General Plan"
+  },
+  {
+    "id": 1033,
+    "name": "DIN 103-3",
+    "description": "ISO Metric Trapezoidal Screw Thread; Allowances and Tolerances for Trapezoidal Screw Threads of General Purpose"
+  },
+  {
+    "id": 1034,
+    "name": "DIN 103-4",
+    "description": "ISO Metric Trapezoidal Screw Thread; Nominal Dimensions"
+  },
+  {
+    "id": 1035,
+    "name": "DIN 103-5",
+    "description": "ISO Metric Trapezoidal Screw Threads; Limiting Sizes for Nut Threads from 8 to 100 mm Nominal Diameter"
+  },
+  {
+    "id": 1036,
+    "name": "DIN 103-6",
+    "description": "ISO Metric Trapezoidal Screw Threads; Limiting Sizes for Nut Threads from 105 to 300 mm Nominal Diameter"
+  },
+  {
+    "id": 1037,
+    "name": "DIN 103-7",
+    "description": "ISO Metric Trapezoidal Screw Threads; Limiting Sizes for Bolt Threads from 8 to 100 mm Nominal Diameter"
+  },
+  {
+    "id": 1038,
+    "name": "DIN 103-8",
+    "description": "ISO Metric Trapezoidal Screw Threads; Limiting Sizes for Bolt Threads from 105 to 300 mm Nominal Diameter"
+  },
+  {
+    "id": 1039,
+    "name": "DIN 103-9",
+    "description": "ISO metric trapezoidal screw threads; gauging of external and internal threads; gauge dimensions and design features"
+  }
+]
