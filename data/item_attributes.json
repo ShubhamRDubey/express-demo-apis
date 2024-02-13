@@ -1,0 +1,14 @@
+[
+    {"ItemValue": 1.000, "ItemValue1": 0.100, "TaskDescID": 31, "ItemID": 1},
+    {"ItemValue": 1.120, "ItemValue1": 1.250, "TaskDescID": 14, "ItemID": 3},
+    {"ItemValue": 13.000, "ItemValue1": 14.000, "TaskDescID": 23, "ItemID": 1},
+    {"ItemValue": 1.200, "ItemValue1": 1.200, "TaskDescID": 11, "ItemID": 3},
+    {"ItemValue": 1.330, "ItemValue1": 1.650, "TaskDescID": 29, "ItemID": 1},
+    {"ItemValue": 4.000, "ItemValue1": 5.000, "TaskDescID": 22, "ItemID": 3},
+    {"ItemValue": 2.200, "ItemValue1": 3.500, "TaskDescID": 6, "ItemID": 1},
+    {"ItemValue": 2.200, "ItemValue1": 2.500, "TaskDescID": 33, "ItemID": 3},
+    {"ItemValue": 1.250, "ItemValue1": 1.250, "TaskDescID": 20, "ItemID": 1},
+    {"ItemValue": 2.000, "ItemValue1": 2.310, "TaskDescID": 12, "ItemID": 3},
+    {"ItemValue": 1.700, "ItemValue1": 1.840, "TaskDescID": 4, "ItemID": 1},
+    {"ItemValue": 4.000, "ItemValue1": 3.700, "TaskDescID": 30, "ItemID": 3}
+]

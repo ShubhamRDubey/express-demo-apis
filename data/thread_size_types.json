@@ -1,44 +1,50 @@
 [
   {
-    "ID": 1,
-    "Category": "M8",
-    "Description": "M8 Size"
+    "id": 1,
+    "category": "M8",
+    "description": "M8 Size",
+    "din_id": 101
   },
   {
-    "ID": 2,
-    "Category": "M9",
-    "Description": "M9 Size "
+    "id": 2,
+    "category": "M9",
+    "description": "M9 Size",
+    "din_id": 1012
   },
   {
-    "ID": 3,
-    "Category": "M10",
-    "Description": "M10 Size"
+    "id": 3,
+    "category": "M10",
+    "description": "M10 Size",
+    "din_id": 1012
   },
   {
-    "ID": 4,
-    "Category": "M11",
-    "Description": "M11 Size"
+    "id": 4,
+    "category": "M14",
+    "description": "M14 Size",
+    "din_id": 1014
   },
   {
-    "ID": 5,
-    "Category": "M12",
-    "Description": "M12 Size"
+    "id": 5,
+    "category": "M15",
+    "description": "M15 Size",
+    "din_id": 1031
   },
   {
-    "ID": 6,
-    "Category": "M13",
-    "Description": "M13 Size"
+    "id": 6,
+    "category": "M16",
+    "description": "M16 Size",
+    "din_id": 1014
   },
   {
-    "ID": 7,
-    "Category": "M14",
-    "Description": "M14 Size",
-    "_action": "create"
+    "id": 7,
+    "category": "M17",
+    "description": "M17 Size",
+    "din_id": 1045
   },
   {
-    "ID": 8,
-    "Category": "M15",
-    "Description": "M15 Size",
-    "_action": "create"
+    "id": 8,
+    "category": "M18",
+    "description": "M18 Size",
+    "din_id": 1045
   }
 ]

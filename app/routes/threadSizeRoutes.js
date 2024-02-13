@@ -29,7 +29,20 @@ router.get('/:id', async (req, res) => {
   const threadId = parseInt(req.params.id);
   const threads = await threadModel.loadThreadsData();
 
-  const thread = threads.find((u) => u.ID === threadId);
+  const thread = threads.find((u) => u.id === threadId);
+
+  if (thread) {
+    res.json(thread);
+  } else {
+    res.status(404).json({ error: 'Thread Size not found' });
+  }
+});
+
+router.get('/din/:id', async (req, res) => {
+  const dinId = parseInt(req.params.id);
+  const threads = await threadModel.loadThreadsData();
+
+  const thread = threads.filter((u) => u.din_id === dinId);
 
   if (thread) {
     res.json(thread);

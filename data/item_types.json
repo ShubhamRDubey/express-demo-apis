@@ -1,41 +1,18 @@
 [
   {
     "id": 1,
-    "name": "M1",
-    "details": {
-      "height": 2.5,
-      "width": 1.2,
-      "depth": 1.0,
-      "head": "Flat",
-      "pitch": 0.2,
-      "radius": 0.5,
-      "cones": 2
-    }
+    "size_id": 1,
+    "name": "ASDFGHJKL"
   },
   {
     "id": 2,
-    "name": "M2",
-    "details": {
-      "height": 3.0,
-      "width": 1.5,
-      "depth": 1.2,
-      "head": "Round",
-      "pitch": 0.25,
-      "radius": 0.6,
-      "cones": 3
-    }
+    "size_id": 1,
+    "name": "QWERTYUIO"
   },
   {
     "id": 3,
-    "name": "M3",
-    "details": {
-      "height": 3.5,
-      "width": 1.8,
-      "depth": 1.5,
-      "head": "Hex",
-      "pitch": 0.3,
-      "radius": 0.7,
-      "cones": 4
-    }
+    "size_id": 5,
+    "name": "ZXCVBNMMM"
   }
 ]
+

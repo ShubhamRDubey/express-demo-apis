@@ -2,7 +2,8 @@
   {
     "MechanicalID": 1,
     "Code": "Threader",
-    "Description": "Threading Mechine"
+    "Description": "Threading Mechine",
+    "_action": "create"
   },
   {
     "MechanicalID": 2,
